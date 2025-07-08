@@ -1,1 +1,1 @@
-print("the succesfull of jenkins practical v1")
+print("the succesfull of jenkins practical v2")
